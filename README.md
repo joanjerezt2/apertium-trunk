@@ -27,3 +27,9 @@ submodules is in the READMEs of those repositories under https://github.com/aper
 [1]: https://wiki.apertium.org/
 [2]: https://wiki.apertium.org/wiki/Trunk
 [3]: https://wiki.apertium.org/wiki/Using_Git
+
+## Compiling and installing
+
+    $ ./autogen.sh
+    $ PKG_CONFIG_PATH=~/apertium-trunk/build/share/pkgconfig/ ./configure --prefix=/home/tobeit/apertium-trunk/build
+    $ make install
