@@ -1,0 +1,1 @@
+lt-proc -w -e '/home/tobeit/apertium/build/share/apertium/apertium-nno/nno.automorf.bin' | cg-proc '/home/tobeit/apertium/build/share/apertium/apertium-nno/nno.seg.rlx.bin' | cg-proc -w '/home/tobeit/apertium/build/share/apertium/apertium-nno/nno.rlx.bin'
