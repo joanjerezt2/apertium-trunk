@@ -1,0 +1,1 @@
+lt-proc -b '/home/tobeit/apertium-trunk/build/share/apertium/apertium-cat/cat.autogen.bin' | cg-proc -n -g '/home/tobeit/apertium-trunk/build/share/apertium/apertium-cat/cat.prefs.rlx.bin'

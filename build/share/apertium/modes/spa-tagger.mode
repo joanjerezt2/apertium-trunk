@@ -1,0 +1,1 @@
+lt-proc -w '/home/tobeit/apertium-trunk/build/share/apertium/apertium-spa/spa.automorf.bin' | cg-proc -w '/home/tobeit/apertium-trunk/build/share/apertium/apertium-spa/spa.rlx.bin' | apertium-tagger -g '/home/tobeit/apertium-trunk/build/share/apertium/apertium-spa/spa.prob'
