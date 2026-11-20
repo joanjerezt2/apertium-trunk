@@ -1,1 +1,0 @@
-lt-proc -w '/home/tobeit/apertium-trunk/build/share/apertium/apertium-ita/ita.automorf.bin' | cg-proc '/home/tobeit/apertium-trunk/build/share/apertium/apertium-ita/ita.rlx.bin' | apertium-tagger -g $2 '/home/tobeit/apertium-trunk/build/share/apertium/apertium-ita/ita.prob'

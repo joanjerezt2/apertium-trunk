@@ -1,1 +1,0 @@
-lt-proc -b '/home/tobeit/apertium-trunk/build/share/apertium/apertium-cat/cat.autogen.bin' | cg-proc '/home/tobeit/apertium-trunk/build/share/apertium/apertium-cat/cat_valencia_uni.prefs.rlx.bin' | cg-proc -n -g '/home/tobeit/apertium-trunk/build/share/apertium/apertium-cat/cat.prefs.rlx.bin'

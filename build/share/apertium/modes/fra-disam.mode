@@ -1,1 +1,0 @@
-lt-proc -w '/home/tobeit/apertium-trunk/build/share/apertium/apertium-fra/fra.automorf.bin' | cg-conv -a -l | vislcg3 --trace -g '/home/tobeit/apertium-trunk/build/share/apertium/apertium-fra/apertium-fra.fra.rlx'

@@ -1,1 +1,0 @@
-lt-proc -b '/home/tobeit/apertium/build/share/apertium/apertium-nno/nno.autogen.bin' | cg-proc -n -g -w '/home/tobeit/apertium/build/share/apertium/apertium-nno/nno.prefs.rlx.bin'
