@@ -53,12 +53,5 @@ List of language pairs: https://wiki.apertium.org/wiki/List_of_language_pairs
 ### Nordic
 
 1. [x] Swedish <-\> Danish             `0.8.1`
-3. [x] Danish <-\> Norwegian        `1.5.1`
-4. [x] Swedish <-\> Norwegian      `0.4.0`
-
-### Slavic
-
-1. [ ] Serbocroatian <-\> Slovenian              `Version`
-2. [ ] Macedonian <-\> Bulgarian                 `Version`
-3. [ ] Belarusian <-\> Russian                        `Version`
-4. [ ] Russian <-\> Ukrainian                          `Version`
+2. [x] Danish <-\> Norwegian        `1.5.1`
+3. [x] Swedish <-\> Norwegian      `0.4.0`
