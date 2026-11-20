@@ -8,6 +8,12 @@
 /build/share/apertium/apertium-nob/
 /build/share/apertium/apertium-swe/
 
+/apertium-dan/
+/apertium-swe-dan/
+/build/share/apertium/apertium-dan/
+
+/apertium-dan-nor/
+
 /apertium-cat/
 /apertium-spa/
 /apertium-spa-cat/

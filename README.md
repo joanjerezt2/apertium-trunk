@@ -33,3 +33,32 @@ submodules is in the READMEs of those repositories under https://github.com/aper
     $ ./autogen.sh
     $ PKG_CONFIG_PATH=~/apertium-trunk/build/share/pkgconfig/ ./configure --prefix=/home/tobeit/apertium-trunk/build
     $ make install
+
+## Language pairs (Apertium)
+
+Main page: https://wiki.apertium.org/wiki/Main_Page
+
+List of language pairs: https://wiki.apertium.org/wiki/List_of_language_pairs
+
+### Romanic
+
+1. [x] Spanish <-\> Catalan             `2.2.0`
+2. [x] French <-\> Catalan               `1.10.0`
+3. [x] Spanish <-\> Portuguese      `1.1.6`
+4. [x] Catalan <-\> Italian                `1.1.0`
+5. [x] French <-\> Spanish             `0.9.4`
+6. [x] Romanian <-\> Catalan        `1.0.0`
+7. [x] Portuguese <-\> Catalan      `0.10.1`
+
+### Nordic
+
+1. [x] Swedish <-\> Danish             `0.8.1`
+3. [x] Danish <-\> Norwegian        `1.5.1`
+4. [x] Swedish <-\> Norwegian      `0.4.0`
+
+### Slavic
+
+1. [ ] Serbocroatian <-\> Slovenian              `Version`
+2. [ ] Macedonian <-\> Bulgarian                 `Version`
+3. [ ] Belarusian <-\> Russian                        `Version`
+4. [ ] Russian <-\> Ukrainian                          `Version`
